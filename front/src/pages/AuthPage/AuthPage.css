@@ -1,1 +1,31 @@
-.auth-page {}
+.auth-page {
+    
+}
+
+.title 
+{
+    font-size: 2em;
+    margin-left: 20px;
+}
+
+.authorization
+{
+   margin-top: 100px;
+   margin-left: 20px;
+}
+
+
+
+.button
+{
+width: 176px;  
+height: 30px;  
+color: red;
+
+font-size: 1em;
+font-weight: bold;
+margin-left: 120px;
+margin-top: 50px;
+margin-bottom: 30px;
+
+}
